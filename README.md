@@ -1,2 +1,2 @@
 # statdoneworng2he
-Translte Statistics Done Wrong to hebrew
+Translte [Statistics Done Wrong](https://www.statisticsdonewrong.com/)  to hebrew
