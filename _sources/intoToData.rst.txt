@@ -1,0 +1,13 @@
+.. איך לעשות סטטיסטיקה נכון documentation master file, created by
+   sphinx-quickstart on Sun Oct  9 17:42:38 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+הקדמה
+====================================================
+Ut et tortor quis nunc lacinia consectetur. Ut ac ante
+ et tellus ullamcorper cursus eget nec ante. Nam viverra, neque non elementum semper, dolor nunc viverra massa, a feugiat justo dui at elit. Nam mi dolor, laoreet quis tortor at, venenatis maximus lacus. Curabitur molestie eu velit sed tincidunt. Morbi faucibus et dui tincidunt vehicula. In hac habitasse platea dictumst. Morbi venenatis felis non ligula suscipit, quis ornare nunc tempor. Fusce mollis quam nisl, in varius lacus placerat ut. Duis cursus leo diam, eu commodo metus ultrices ut. Ut euismod, quam et suscipit bibendum, massa sapien tristique odio, nec facilisis lectus felis a massa. Vestibulum et condimentum nulla. Morbi tempus, arcu eu accumsan ultricies, nunc sapien tempor lacus, quis auctor ligula ligula ut nunc. Nullam ac luctus odio. Cras ultrices nunc nec tincidunt venenatis. 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:

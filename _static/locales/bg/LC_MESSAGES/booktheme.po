@@ -1,0 +1,1017 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "Contents"
+msgstr "Съдържание"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "By the"
+msgstr "По"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "By"
+msgstr "От"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Search the docs ..."
+msgstr "Търсене в документите ..."
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "By the"
+msgstr "По"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "By"
+msgstr "От"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"
+
+msgid "By the"
+msgstr "По"
+
+msgid "By"
+msgstr "От"
+
+msgid "תוכן"
+msgstr "Съдържание"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Download notebook file"
+msgstr "Изтеглете файла на бележника"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "Download this page"
+msgstr "Изтеглете тази страница"
+
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "Last updated on"
+msgstr "Последна актуализация на"
+
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "next page"
+msgstr "Следваща страница"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "open issue"
+msgstr "отворен брой"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "Print to PDF"
+msgstr "Печат в PDF"
+
+msgid "repository"
+msgstr "хранилище"
+
+msgid "חפש בספר..."
+msgstr "Търсене в документите ..."
+
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
+
+msgid "Source repository"
+msgstr "Хранилище на източника"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Theme by the"
+msgstr "Тема от"
+
+msgid "Toggle navigation"
+msgstr "Превключване на навигацията"

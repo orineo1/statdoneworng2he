@@ -1,0 +1,1017 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: no\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "Contents"
+msgstr "Innhold"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "By"
+msgstr "Av"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Search the docs ..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"
+
+msgid "By the"
+msgstr "Ved"
+
+msgid "By"
+msgstr "Av"
+
+msgid "תוכן"
+msgstr "Innhold"
+
+msgid "Copyright"
+msgstr "opphavsrett"
+
+msgid "Download notebook file"
+msgstr "Last ned notatbokfilen"
+
+msgid "Download source file"
+msgstr "Last ned kildefilen"
+
+msgid "Download this page"
+msgstr "Last ned denne siden"
+
+msgid "Edit this page"
+msgstr "Rediger denne siden"
+
+msgid "Fullscreen mode"
+msgstr "Fullskjerm-modus"
+
+msgid "Last updated on"
+msgstr "Sist oppdatert den"
+
+msgid "Launch"
+msgstr "Start"
+
+msgid "next page"
+msgstr "neste side"
+
+msgid "Open an issue"
+msgstr "Åpne et problem"
+
+msgid "open issue"
+msgstr "åpent nummer"
+
+msgid "previous page"
+msgstr "forrige side"
+
+msgid "Print to PDF"
+msgstr "Skriv ut til PDF"
+
+msgid "repository"
+msgstr "oppbevaringssted"
+
+msgid "חפש בספר..."
+msgstr "Søk i dokumentene ..."
+
+msgid "Search this book..."
+msgstr "Søk i denne boken ..."
+
+msgid "Source repository"
+msgstr "Kildedepot"
+
+msgid "Sphinx Book Theme"
+msgstr "Sphinx boktema"
+
+msgid "suggest edit"
+msgstr "foreslå redigering"
+
+msgid "Theme by the"
+msgstr "Tema av"
+
+msgid "Toggle navigation"
+msgstr "Bytt navigasjon"

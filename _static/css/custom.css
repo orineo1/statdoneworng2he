@@ -1,0 +1,60 @@
+
+  body {
+    padding-top: 0 !important;
+    direction: rtl;
+    /* text-align: right; */
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  .prev-next-area {
+    margin: 20px 0;
+  }
+  .prev-next-area p {
+    margin: 0 0.3em;
+    line-height: 1.3em;
+  }
+  .prev-next-area i {
+    font-size: 1.2em;
+  }
+  .prev-next-area a {
+    display: flex;
+    align-items: center;
+    border: none;
+    padding: 10px;
+    max-width: 45%;
+    overflow-x: hidden;
+    color: rgba(0, 0, 0, 0.65);
+    text-decoration: none;
+  }
+  .prev-next-area a p.prev-next-title {
+    color: rgba(var(--pst-color-link), 1);
+    font-weight: 600;
+    font-size: 1.1em;
+  }
+  .prev-next-area a:hover p.prev-next-title {
+    text-decoration: underline;
+  }
+  .prev-next-area a .prev-next-info {
+    flex-direction: column;
+    margin: 0 0.5em;
+  }
+  .prev-next-area a .prev-next-info .prev-next-subtitle {
+    text-transform: capitalize;
+  }
+  .prev-next-area a.left-prev {
+    float: right;
+  }
+  .prev-next-area a.right-next {
+    float: left;
+  }
+  .prev-next-area a.right-next div.prev-next-info {
+    text-align:left;
+  }
+
+  /* .prev-next-area a.left-prev {
+    float: right;
+  }
+  .prev-next-area a.right-next {
+    float: left;
+  } */
+  

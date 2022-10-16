@@ -1,0 +1,1017 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "Contents"
+msgstr "Sisu"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Search the docs ..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"
+
+msgid "By the"
+msgstr "Autor"
+
+msgid "By"
+msgstr "Kõrval"
+
+msgid "תוכן"
+msgstr "Sisu"
+
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+msgid "Download notebook file"
+msgstr "Laadige sülearvuti fail alla"
+
+msgid "Download source file"
+msgstr "Laadige alla lähtefail"
+
+msgid "Download this page"
+msgstr "Laadige see leht alla"
+
+msgid "Edit this page"
+msgstr "Muutke seda lehte"
+
+msgid "Fullscreen mode"
+msgstr "Täisekraanirežiim"
+
+msgid "Last updated on"
+msgstr "Viimati uuendatud"
+
+msgid "Launch"
+msgstr "Käivitage"
+
+msgid "next page"
+msgstr "järgmine leht"
+
+msgid "Open an issue"
+msgstr "Avage probleem"
+
+msgid "open issue"
+msgstr "avatud küsimus"
+
+msgid "previous page"
+msgstr "eelmine leht"
+
+msgid "Print to PDF"
+msgstr "Prindi PDF-i"
+
+msgid "repository"
+msgstr "hoidla"
+
+msgid "חפש בספר..."
+msgstr "Dokumentidest otsimine ..."
+
+msgid "Search this book..."
+msgstr "Otsige sellest raamatust ..."
+
+msgid "Source repository"
+msgstr "Allikahoidla"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksiraamatu teema"
+
+msgid "suggest edit"
+msgstr "soovita muuta"
+
+msgid "Theme by the"
+msgstr "Teema"
+
+msgid "Toggle navigation"
+msgstr "Lülita navigeerimine sisse"

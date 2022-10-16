@@ -1,0 +1,13 @@
+.. איך לעשות סטטיסטיקה נכון documentation master file, created by
+   sphinx-quickstart on Sun Oct  9 17:42:38 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+יצירת קשר
+====================================================
+
+עשיתי את מיטב יכולתי, אבל בצורה בלתי נמנעת המדריך מכיל שגיאות וחוסרים. אם אתה מוצא שגיאה, יש לך שאלה או מכיר שגיאה נפוצה שפספסתי, שלח לי מייל לכתובת alex@ refsmmat.com 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
