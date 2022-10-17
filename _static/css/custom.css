@@ -53,19 +53,10 @@
 
   blockquote.epigraph {font-size: medium}
 
-  dl.footnote_brackets{
-    direction: rtl;
-    float: right;
-  }
   dt.label{
     height: 0;
     width: 0;
   }
-
-  /* .prev-next-area a.left-prev {
-    float: right;
+  a.fn-backref{
+    font-size: small;
   }
-  .prev-next-area a.right-next {
-    float: left;
-  } */
-  
