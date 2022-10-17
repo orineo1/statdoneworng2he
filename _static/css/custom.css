@@ -51,6 +51,17 @@
     text-align:left;
   }
 
+  blockquote.epigraph {font-size: medium}
+
+  dl.footnote_brackets{
+    direction: rtl;
+    float: right;
+  }
+  dt.label{
+    height: 0;
+    width: 0;
+  }
+
   /* .prev-next-area a.left-prev {
     float: right;
   }
