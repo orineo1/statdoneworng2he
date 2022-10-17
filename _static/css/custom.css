@@ -60,3 +60,8 @@
   a.fn-backref{
     font-size: small;
   }
+  
+  dl.footnote_brackets{
+    direction: rtl;
+    float: right;
+  }
