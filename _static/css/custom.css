@@ -65,3 +65,18 @@
     direction: rtl;
     float: right;
   }
+  #reset {
+    margin-top: 8px;
+    background-color: #008cba;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 10px;
+    color: white;
+    border: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 0px;
+    padding-right: 4px;
+    padding-left: 4px;
+  }
+  
