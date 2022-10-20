@@ -65,3 +65,6 @@
     direction: rtl;
     float: right;
   }
+  .website-counter{
+  display: contents;
+}
